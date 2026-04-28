@@ -1,0 +1,13 @@
+- Brazilian Portuguese:
+- eu ainda não sei mecher direito com esse Kodi, estou usando apenas
+- via tutoriais, porém eu vi um video no youtube em que um cara disponibilizava
+- o arquivo zip desse repositório vikings, ja que o site oficial em que a gente
+- usava pra colocar o endereço no kodi estava indisponível. sinta-se a vontade para
+- usar este link para colocar no seu Kodi também.
+
+- English:
+- I still don't know how to use Kodi properly,
+- I'm only using it via tutorials, but I saw a video on YouTube
+- where a guy was providing the zip file of this Vikings repository,
+- since the website we normally used on Kodi was unavailable Feel free to use the link
+-  in your Kodi as well.
